@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mingi Kwon
 - 👀 I’m interested in Diffusion Models
-- 🌱 I’m currently a Ph.D. student
+- 🌱 I’m currently a Ph.D. student (2023.03~)
 - 💞️ I’m looking to collaborate on any study
 - 📫 How to reach me "kwonmingi@yonsei.ac.kr"
 
