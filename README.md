@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Mingi Kwon
 - 👀 I’m interested in Diffusion Models
-- 🌱 I’m currently a Ph.D. student (2023.03~)
+- 🌱 I'm a Ph.D. student starting in 2023.03
 - 💞️ I’m looking to collaborate on any study
-- 📫 How to reach me "kwonmingi@yonsei.ac.kr"
-- ☕ Buy me a coffee at [[here]](https://www.buymeacoffee.com/kwonmingi)
+- 📫 You can reach me at kwonmingi@yonsei.ac.kr
+- ☕ If you'd like to buy me a coffee, you can find me [[here]](https://www.buymeacoffee.com/kwonmingi)
 
 
 My recent papers
