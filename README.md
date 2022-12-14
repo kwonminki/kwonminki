@@ -3,6 +3,7 @@
 - 🌱 I’m currently a Ph.D. student (2023.03~)
 - 💞️ I’m looking to collaborate on any study
 - 📫 How to reach me "kwonmingi@yonsei.ac.kr"
+- ☕ Buy me a coffee at [[here]](https://www.buymeacoffee.com/kwonmingi)
 
 
 My recent papers
