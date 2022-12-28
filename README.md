@@ -5,7 +5,7 @@
 - 📫 You can reach me at kwonmingi@yonsei.ac.kr
 - ☕ If you'd like to buy me a coffee, you can find me [[here]](https://www.buymeacoffee.com/kwonmingi)
 
-My CV [link](https://drive.google.com/file/d/1d1TOCA20KmYnY8RvBvhFwku7QaaWIMZL/view?usp=share_link)
+- My CV [link](https://drive.google.com/file/d/1d1TOCA20KmYnY8RvBvhFwku7QaaWIMZL/view?usp=share_link)
 
 
 My recent papers
