@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mingi Kwon
 - 👀 I’m interested in Diffusion Models
-- 🌱 I'm a Ph.D. student starting in 2023.03
+- 🌱 I'm a Ph.D. a Ph.D. candidate at Yonsei Univercity (starting in 2023.03).
 - 💞️ I’m looking to collaborate on any study
 - 📫 You can reach me at kwonmingi@yonsei.ac.kr
 - ☕ If you'd like to buy me a coffee, you can find me [[here]](https://www.buymeacoffee.com/kwonmingi)
