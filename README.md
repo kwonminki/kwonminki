@@ -24,7 +24,7 @@ My recent papers
 [~] [20 Oct 2022] [[paper](https://arxiv.org/abs/2210.10960)] [[project page](https://kwonminki.github.io/Asyrp/)] [[code](https://github.com/kwonminki/Asyrp_official)]
 
 **Training-free Style Transfer Emerges from h-space in Diffusion models** \
-[~] [before arxiving] [comming soon]
+[~] [before arxiving] [[project page](https://curryjung.github.io/DiffStyle_project_page/)]
 
 
 <!---
