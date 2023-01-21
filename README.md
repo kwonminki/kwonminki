@@ -21,7 +21,7 @@ My recent papers
 [ECCV2022] [22 Aug 2022] [[paper](https://arxiv.org/abs/2208.10422)] [[project page](https://jeongminb.github.io/FurryGAN/)]
 
 **Diffusion Models already have a Semantic Latent Space** \
-[~] [20 Oct 2022] [[paper](https://arxiv.org/abs/2210.10960)] [[project page](https://kwonminki.github.io/Asyrp/)] [[code](https://github.com/kwonminki/Asyrp_official)]
+[ICLR2023 spotlight] [20 Oct 2022] [[paper](https://arxiv.org/abs/2210.10960)] [[project page](https://kwonminki.github.io/Asyrp/)] [[code](https://github.com/kwonminki/Asyrp_official)]
 
 **Training-free Style Transfer Emerges from h-space in Diffusion models** \
 [~] [before arxiving] [[project page](https://curryjung.github.io/DiffStyle_project_page/)]
