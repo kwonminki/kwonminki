@@ -26,6 +26,9 @@ My recent papers
 **Training-free Style Transfer Emerges from h-space in Diffusion models** \
 [~] [before arxiving] [[project page](https://curryjung.github.io/DiffStyle_project_page/)]
 
+**Discover Interpretable Directions of Diffusion Models without Supervision** \
+[~] [before arxiving]
+
 
 <!---
 kwonminki/kwonminki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
