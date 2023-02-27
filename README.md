@@ -27,7 +27,7 @@ My recent papers
 [~] [before arxiving] [[project page](https://curryjung.github.io/DiffStyle_project_page/)]
 
 **Discover Interpretable Directions of Diffusion Models without Supervision** \
-[~] [before arxiving]
+[~] [[paper](https://arxiv.org/abs/2302.12469)]
 
 
 <!---
