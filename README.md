@@ -26,7 +26,7 @@ My recent papers
 **Training-free Style Transfer Emerges from h-space in Diffusion models** \
 [~] [before arxiving] [[project page](https://curryjung.github.io/DiffStyle_project_page/)]
 
-**Discover Interpretable Directions of Diffusion Models without Supervision** \
+**Unsupervised Discovery of Semantic Latent Directions in Diffusion Models** \
 [~] [[paper](https://arxiv.org/abs/2302.12469)]
 
 
