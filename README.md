@@ -29,6 +29,9 @@ My recent papers
 **Unsupervised Discovery of Semantic Latent Directions in Diffusion Models** \
 [~] [[paper](https://arxiv.org/abs/2302.12469)]
 
+**Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry** \
+[~]
+
 
 <!---
 kwonminki/kwonminki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
