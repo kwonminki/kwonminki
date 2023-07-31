@@ -30,7 +30,7 @@ My recent papers
 [~] [[paper](https://arxiv.org/abs/2302.12469)]
 
 **Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry** \
-[~]
+[~] [[paper](https://arxiv.org/abs/2307.12868)]
 
 
 <!---
