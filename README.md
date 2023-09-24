@@ -16,6 +16,7 @@
 
 
 My recent papers
+
 **Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry** \
 [Neurips2023] [[paper](https://arxiv.org/abs/2307.12868)]
 
