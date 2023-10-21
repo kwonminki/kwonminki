@@ -18,7 +18,7 @@
 My recent papers
 
 **Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry** \
-[Neurips2023] [[paper](https://arxiv.org/abs/2307.12868)]
+[Neurips2023] [[paper](https://arxiv.org/abs/2307.12868)] [[code](https://github.com/enkeejunior1/Diffusion-Pullback)]
 
 **Diffusion Models already have a Semantic Latent Space** \
 [ICLR2023 spotlight] [20 Oct 2022] [[paper](https://arxiv.org/abs/2210.10960)] [[project page](https://kwonminki.github.io/Asyrp/)] [[code](https://github.com/kwonminki/Asyrp_official)]
