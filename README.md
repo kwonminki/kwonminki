@@ -27,7 +27,7 @@ My recent papers
 [ECCV2022] [22 Aug 2022] [[paper](https://arxiv.org/abs/2208.10422)] [[project page](https://jeongminb.github.io/FurryGAN/)]
 
 **Training-free Style Transfer Emerges from h-space in Diffusion models** \
-[~] [[paper](https://arxiv.org/abs/2303.15403)] [[project page](https://curryjung.github.io/DiffStyle/)] [[code](https://github.com/curryjung/DiffStyle_official)]
+[WACV 2024] [[paper](https://arxiv.org/abs/2303.15403)] [[project page](https://curryjung.github.io/DiffStyle/)] [[code](https://github.com/curryjung/DiffStyle_official)]
 
 **Unsupervised Discovery of Semantic Latent Directions in Diffusion Models** \
 [~] [[paper](https://arxiv.org/abs/2302.12469)]
