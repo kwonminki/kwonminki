@@ -20,18 +20,20 @@ My recent papers
 **Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry** \
 [Neurips2023] [[paper](https://arxiv.org/abs/2307.12868)] [[code](https://github.com/enkeejunior1/Diffusion-Pullback)]
 
+**Training-free Style Transfer Emerges from h-space in Diffusion models** \
+[WACV 2024] [[paper](https://arxiv.org/abs/2303.15403)] [[project page](https://curryjung.github.io/DiffStyle/)] [[code](https://github.com/curryjung/DiffStyle_official)]
+
 **Diffusion Models already have a Semantic Latent Space** \
 [ICLR2023 spotlight] [20 Oct 2022] [[paper](https://arxiv.org/abs/2210.10960)] [[project page](https://kwonminki.github.io/Asyrp/)] [[code](https://github.com/kwonminki/Asyrp_official)]
 
 **FurryGAN: High Quality Foreground-aware Image Synthesis** \
 [ECCV2022] [22 Aug 2022] [[paper](https://arxiv.org/abs/2208.10422)] [[project page](https://jeongminb.github.io/FurryGAN/)]
 
-**Training-free Style Transfer Emerges from h-space in Diffusion models** \
-[WACV 2024] [[paper](https://arxiv.org/abs/2303.15403)] [[project page](https://curryjung.github.io/DiffStyle/)] [[code](https://github.com/curryjung/DiffStyle_official)]
-
 **Unsupervised Discovery of Semantic Latent Directions in Diffusion Models** \
 [~] [[paper](https://arxiv.org/abs/2302.12469)]
 
+**Comming Soon text-to-video paper** \
+[~]
 
 <!---
 kwonminki/kwonminki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
