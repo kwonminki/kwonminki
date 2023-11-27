@@ -32,6 +32,9 @@ My recent papers
 **Unsupervised Discovery of Semantic Latent Directions in Diffusion Models** \
 [~] [[paper](https://arxiv.org/abs/2302.12469)]
 
+**Attribute Based Interpretable Evaluation Metrics for Generative Models** \
+[~] [[paper](https://arxiv.org/abs/2310.17261)] 
+
 **Comming Soon text-to-video paper** \
 [~]
 
