@@ -38,6 +38,12 @@ My recent papers
 **Comming Soon text-to-video paper** \
 [~]
 
+**Coming Soon Motion Customization Video Diffusion Model paper** \
+[~]
+
+**Coming Soon Plug and Play Diffusion Distillation paper** \
+[~]
+
 <!---
 kwonminki/kwonminki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
