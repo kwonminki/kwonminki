@@ -30,7 +30,7 @@ My recent papers
 [ECCV2022] [22 Aug 2022] [[paper](https://arxiv.org/abs/2208.10422)] [[project page](https://jeongminb.github.io/FurryGAN/)]
 
 **Unsupervised Discovery of Semantic Latent Directions in Diffusion Models** \
-[~] [[paper](https://arxiv.org/abs/2302.12469)]
+[Just arxving] [[paper](https://arxiv.org/abs/2302.12469)] -> developed to Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry
 
 **Attribute Based Interpretable Evaluation Metrics for Generative Models** \
 [~] [[paper](https://arxiv.org/abs/2310.17261)] 
