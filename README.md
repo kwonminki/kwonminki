@@ -15,34 +15,38 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=kwonminki&color=grey)
 
 
-My recent papers
+My recent papers \
+$\heartsuit$ : first author or co-first author
 
-**Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry** \
+
+
+**Plug-and-Play Diffusion Distillation** \
+[CVPR2024] 
+
+$\heartsuit$ **Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry** \
 [Neurips2023] [[paper](https://arxiv.org/abs/2307.12868)] [[code](https://github.com/enkeejunior1/Diffusion-Pullback)]
 
-**Training-free Style Transfer Emerges from h-space in Diffusion models** \
-[WACV 2024] [[paper](https://arxiv.org/abs/2303.15403)] [[project page](https://curryjung.github.io/DiffStyle/)] [[code](https://github.com/curryjung/DiffStyle_official)]
+$\heartsuit$ **Training-free Style Transfer Emerges from h-space in Diffusion models** \
+[WACV2024] [[paper](https://arxiv.org/abs/2303.15403)] [[project page](https://curryjung.github.io/DiffStyle/)] [[code](https://github.com/curryjung/DiffStyle_official)]
 
-**Diffusion Models already have a Semantic Latent Space** \
+$\heartsuit$ **Diffusion Models already have a Semantic Latent Space** \
 [ICLR2023 spotlight] [20 Oct 2022] [[paper](https://arxiv.org/abs/2210.10960)] [[project page](https://kwonminki.github.io/Asyrp/)] [[code](https://github.com/kwonminki/Asyrp_official)]
 
 **FurryGAN: High Quality Foreground-aware Image Synthesis** \
 [ECCV2022] [22 Aug 2022] [[paper](https://arxiv.org/abs/2208.10422)] [[project page](https://jeongminb.github.io/FurryGAN/)]
 
-**Unsupervised Discovery of Semantic Latent Directions in Diffusion Models** \
+$\heartsuit$ **Unsupervised Discovery of Semantic Latent Directions in Diffusion Models** \
 [Just arxving] [[paper](https://arxiv.org/abs/2302.12469)] -> developed to Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry
 
-**Attribute Based Interpretable Evaluation Metrics for Generative Models** \
+$\heartsuit$ **Attribute Based Interpretable Evaluation Metrics for Generative Models** \
 [~] [[paper](https://arxiv.org/abs/2310.17261)] 
 
-**Comming Soon text-to-video paper** \
+$\heartsuit$ **Comming Soon text-to-video paper** \
 [~]
 
 **Coming Soon Motion Customization Video Diffusion Model paper** \
 [~]
 
-**Coming Soon Plug and Play Diffusion Distillation paper** \
-[~]
 
 <!---
 kwonminki/kwonminki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
