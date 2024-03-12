@@ -36,7 +36,7 @@ $\heartsuit$ **Diffusion Models already have a Semantic Latent Space** \
 [ECCV2022] [22 Aug 2022] [[paper](https://arxiv.org/abs/2208.10422)] [[project page](https://jeongminb.github.io/FurryGAN/)]
 
 $\heartsuit$ **Unsupervised Discovery of Semantic Latent Directions in Diffusion Models** \
-[Just arxving] [[paper](https://arxiv.org/abs/2302.12469)] -> developed to Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry
+[Just arxving] [[paper](https://arxiv.org/abs/2302.12469)] -> developed to Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry. But the content is very different.
 
 $\heartsuit$ **Attribute Based Interpretable Evaluation Metrics for Generative Models** \
 [~] [[paper](https://arxiv.org/abs/2310.17261)] 
