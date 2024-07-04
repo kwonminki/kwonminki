@@ -17,6 +17,10 @@
 
 
 My recent papers \
+
+It is out-dated.
+Please visit [here](https://sites.google.com/view/mingikwon/papers)
+
 $\heartsuit$ : first author or co-first author
 
 $\heartsuit$ **Comming Soon text-to-video paper** \
