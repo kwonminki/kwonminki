@@ -19,7 +19,11 @@
 My recent papers \
 $\heartsuit$ : first author or co-first author
 
+$\heartsuit$ **Comming Soon text-to-video paper** \
+[ECCV2024]
 
+$\heartsuit$ **Attribute Based Interpretable Evaluation Metrics for Generative Models** \
+[ICML2024] [[paper](https://arxiv.org/abs/2310.17261)] 
 
 **Plug-and-Play Diffusion Distillation** \
 [CVPR2024] 
@@ -38,12 +42,6 @@ $\heartsuit$ **Diffusion Models already have a Semantic Latent Space** \
 
 $\heartsuit$ **Unsupervised Discovery of Semantic Latent Directions in Diffusion Models** \
 [Just arxving] [[paper](https://arxiv.org/abs/2302.12469)] -> developed to Understanding the Latent Space of Diffusion Models through the Lens of Riemannian Geometry. But the content is very different.
-
-$\heartsuit$ **Attribute Based Interpretable Evaluation Metrics for Generative Models** \
-[ICML2024] [[paper](https://arxiv.org/abs/2310.17261)] 
-
-$\heartsuit$ **Comming Soon text-to-video paper** \
-[ECCV2024]
 
 **Coming Soon Motion Customization Video Diffusion Model paper** \
 [~]
