@@ -16,11 +16,11 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=kwonminki&color=grey)
 
 
-My recent papers \
+My recent papers
 
-
-It is out-dated. \
 Please visit [here](https://sites.google.com/view/mingikwon/papers)
+
+<!---
 
 $\heartsuit$ : first author or co-first author
 
@@ -52,7 +52,7 @@ $\heartsuit$ **Unsupervised Discovery of Semantic Latent Directions in Diffusion
 [~]
 
 
-<!---
+
 kwonminki/kwonminki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
